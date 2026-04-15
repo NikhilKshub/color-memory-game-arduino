@@ -83,13 +83,6 @@ A simple Arduino-based memory game inspired by the classic **Simon Game**, where
 * Timing control using delays
 * Building interactive systems
 
----
-
-## 👨‍💻 Author
-
-Nikhil Kunwar
-
----
 
 ## ⭐ If you like this project
 
